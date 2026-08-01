@@ -71,7 +71,7 @@ Sales-Trend-Analysis/
 │
 ├── SQL sales analysis.sql
 ├── README.md
-├── Sales data.csv
+├── sales_data.csv
 ├── monthly_revenue.csv
 ├── monthly_quantity.csv
 ├── monthly_revenue_quantity.csv
