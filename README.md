@@ -1,4 +1,4 @@
-# 📊 Sales Trend Analysis Using SQL Aggregations
+3# 📊 Sales Trend Analysis Using SQL Aggregations
 
 ## 📌 Project Overview
 
@@ -69,7 +69,7 @@ The dataset contains sales transaction records with the following columns:
 ```
 Sales-Trend-Analysis/
 │
-├── sales_trend_analysis.sql
+├── SQL sales analysis.sql
 ├── README.md
 ├── results/
 │   ├── monthly_revenue.csv
