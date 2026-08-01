@@ -117,7 +117,7 @@ Sales-Trend-Analysis/
 
 1. Import the dataset into MySQL.
 2. Convert the `Sale_Date` column to the `DATE` datatype.
-3. Execute the queries in `sales_trend_analysis.sql`.
+3. Execute the queries in `SQL sales analysis.sql`.
 4. Export the query results as CSV files if required.
 
 ---
