@@ -71,21 +71,15 @@ Sales-Trend-Analysis/
 │
 ├── SQL sales analysis.sql
 ├── README.md
-├── results/
-│   ├── monthly_revenue.csv
-│   ├── monthly_quantity.csv
-│   ├── monthly_revenue_quantity.csv
-│   ├── highest_revenue_month.csv
-│   ├── revenue_by_region.csv
-│   ├── revenue_by_category.csv
-│   ├── revenue_by_sales_rep.csv
-│   └── revenue_by_sales_channel.csv
-│
-└── screenshots/
-    ├── query_1.png
-    ├── query_2.png
-    ├── query_3.png
-    └── ...
+├── monthly_revenue.csv
+├── monthly_quantity.csv
+├── monthly_revenue_quantity.csv
+├── highest_revenue_month.csv
+├── revenue_by_region.csv
+├── revenue_by_category.csv
+├── revenue_by_sales_rep.csv
+└── revenue_by_sales_channel.csv
+
 ```
 
 ---
